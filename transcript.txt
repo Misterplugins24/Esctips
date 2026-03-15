@@ -1,5 +1,5 @@
-03/15/2026
+
+3/15/2026
 - Nueva actualización disponible.
-- Se han integrado los efectos de sonido y recursos.
-- Mejoras en el rendimiento del sistema de notas.
-https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/main.lua
+- Se agregaron los sonidos.
+https://raw.githubusercontent.com/Misterplugins24/Esctips/main/main.lua
