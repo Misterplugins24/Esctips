@@ -1,5 +1,0 @@
-
-3/15/2026
-- Nueva actualización disponible.
-- Se agregaron los sonidos.
-https://raw.githubusercontent.com/Misterplugins24/Esctips/main/main.lua
